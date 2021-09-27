@@ -17,8 +17,6 @@ Dataset Columns Definition
 
 <img width="404" alt="螢幕截圖 2021-09-27 下午11 03 32" src="https://user-images.githubusercontent.com/84705652/134934802-b4ff110b-1d97-4c04-bf8a-e8429367842b.png">
 
-## Demo
-video on streamlit deployment demo 
 
 
   ## Content
@@ -31,11 +29,6 @@ video on streamlit deployment demo
 | 4 |Deployment on GCP   | x  |      |
 | 5 |Tableau Dashboard  | x  |      |
 | 6 |Presentation   | x  |      |
-
-
-## Article on Medium 
-
-Any additional information goes here
 
   
 ## Find more about my work
