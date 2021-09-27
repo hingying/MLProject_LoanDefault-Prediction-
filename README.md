@@ -23,13 +23,12 @@ video on streamlit deployment demo
 
 | |Document | Progress | Links |
 | :---   | :--- | :---  |:---  |
-| 1 |Exploratory Data Analysis   | x  |     |
-| 2 |Model Selection(lazypredict) | x  |      |
-| 3 |Model Building     | x  |      |
-| 4 |Model Deployment (Streamlit) | x  |      |
-| 5 |Deployment on GCP   | x  |      |
-| 6 |Tableau Dashboard  | x  |      |
-| 7 |Presentation   | x  |      |
+| 1 |Exploratory Data Analysis   | v  |     |
+| 2 |Model Building     | v  |      |
+| 3 |Model Deployment (Streamlit) | x  |      |
+| 4 |Deployment on GCP   | x  |      |
+| 5 |Tableau Dashboard  | x  |      |
+| 6 |Presentation   | x  |      |
 
 
 ## Article on Medium 
