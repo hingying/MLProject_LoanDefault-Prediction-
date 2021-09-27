@@ -1,5 +1,5 @@
 
-# MLProject-Loan_Default_Prediction
+# MLProject-Loan Default Prediction
 
 
 This repository holds a case study on analysis of loan defaulters in Banking and building a machine learning model to classify customers who will default on their loans, which identify risky customers and minimize the losses of the lenders/bank. This Comes with a machine learning model for predicting the probability of loan defaulter with Streamlit, and visualized with Tableau Dashboard. 
@@ -23,13 +23,12 @@ video on streamlit deployment demo
 
 | |Document | Progress | Links |
 | :---   | :--- | :---  |:---  |
-| 1 |Exploratory Data Analysis   | x  |     |
-| 2 |Model Selection(lazypredict) | x  |      |
-| 3 |Model Building     | x  |      |
-| 4 |Model Deployment (Streamlit) | x  |      |
-| 5 |Deployment on GCP   | x  |      |
-| 6 |Tableau Dashboard  | x  |      |
-| 7 |Presentation   | x  |      |
+| 1 |Exploratory Data Analysis   | v  |     |
+| 2 |Model Building     | v  |      |
+| 3 |Model Deployment (Streamlit) | x  |      |
+| 4 |Deployment on GCP   | x  |      |
+| 5 |Tableau Dashboard  | x  |      |
+| 6 |Presentation   | x  |      |
 
 
 ## Article on Medium 
