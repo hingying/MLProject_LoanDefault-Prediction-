@@ -21,14 +21,12 @@ Dataset Columns Definition
 
   ## Content
 
-| |Document | Progress | Links |
-| :---   | :--- | :---  |:---  |
-| 1 |Exploratory Data Analysis   | v  |     |
-| 2 |Model Building     | v  |      |
-| 3 |Model Deployment (Streamlit) | x  |      |
-| 4 |Deployment on GCP   | x  |      |
-| 5 |Tableau Dashboard  | x  |      |
-| 6 |Presentation   | x  |      |
+| |Document | Progress |
+| :---   | :--- | :---  |
+| 1 |Exploratory Data Analysis   | v  |    
+| 2 |Model Building     | v  |      
+| 3 |Model Deployment (Streamlit) | x  |      
+| 6 |Presentation   | x  |      
 
   
 ## Find more about my work
